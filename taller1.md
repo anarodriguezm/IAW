@@ -1,4 +1,4 @@
-# Taller 1 ANA RODRIGUEZ
+# Taller 1 ANA RODRIGUEZ  
 
 ## Creamos el repositorio remoto.
 ![prueba1](img/captura1.png)
