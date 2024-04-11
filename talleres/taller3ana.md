@@ -8,13 +8,9 @@
     Borra la rama primera.
 ![ejemplo3](../img/captura32.png)
     Crea una rama que se llame segunda, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. 
-![ejemplo4](../img/
-    Entrega el contenido del fichero donde se ha producido el conflicto.
-    Soluciona el conflicto que has creado en el punto anterior y sincroniza la rama segunda en el remoto.
-![ejemplo5](../img
-    
-     Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
-![ejemplo6](../img
+![ejemplo4](../img/captura31.png)
+   
+
 
 
 
