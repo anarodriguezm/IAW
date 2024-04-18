@@ -78,3 +78,8 @@ Para detener el docker usamos :
     $ docker container stop mi-blog
 
 ![Ejemplo de imagen](/img/Paso1.png)
+
+Una vez construido el sitio (alojado en la carpeta _site), podremos levantar el servidor para comprobar su funcionamiento.
+
+Tambien deberemos añadir al fichero GEMFILE la gema de webrick para que funcione correctamente.
+![Ejemplo de imagen](/img/)
