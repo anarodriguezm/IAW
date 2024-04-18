@@ -12,9 +12,9 @@ Iniciamos el Docker con el siguiente comando:
 
 Con los siguientes comandos procederemos a la instalación de dockers.
 
-![Ejemplo de imagen](/img/instalar1.png)
-![Ejemplo de imagen](/img/instalar2.png)
-![Ejemplo de imagen](/img/instalar3.png)
+![prueba2](../img/instalar1.png)
+![prueba2](../img/instalar2.png)
+![prueba2](../img/instalar3.png)
 
 Con la siguiente instrucción, creamos  mi blog. Esta orden realizará las siguientes acciones:
 
@@ -43,7 +43,7 @@ Para construir el sitio web, ejecuta la siguiente instrucción:
 
     $ docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build
 
-![Ejemplo de imagen](/img/Paso1.png)
+![prueba2](../img/Paso1.png)
 
 Una vez construido el sitio, alojado en la carpeta _site,levantamos el servidor para comprobar su funcionamiento.
 
@@ -53,7 +53,7 @@ Si aparece un error al iniciar el servidor añade la siguiente línea en el arch
 
     $ docker run --name $site_name --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch --drafts
 
-![Ejemplo de imagen](/img/Paso1.png)
+![prueba2](../img/Paso1.png)
 
 Para visualizar la página web, abrimos en un navegador la dirección http://localhost:3000/. Cualquier modificación realizada en los archivos se reflejará en el navegador al actualizar la página.
 
@@ -77,9 +77,9 @@ Para detener el docker usamos :
 
     $ docker container stop mi-blog
 
-![Ejemplo de imagen](/img/Paso1.png)
+![prueba2](../img/Paso1.png)
 
 Una vez construido el sitio (alojado en la carpeta _site), podremos levantar el servidor para comprobar su funcionamiento.
 
 Tambien deberemos añadir al fichero GEMFILE la gema de webrick para que funcione correctamente.
-![Ejemplo de imagen](/img/gemfile.png)
+![prueba2](../img/gemfile.png)
