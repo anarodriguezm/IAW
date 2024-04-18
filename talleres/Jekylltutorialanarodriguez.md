@@ -4,7 +4,7 @@ lo primero que hacemos es instalar el docker.
 
 Iniciamos el Docker con el siguiente comando:
 
-![imagen](../img/Paso1.png)
+![imagen](IAW/img/Paso1.png)
 
   
 
