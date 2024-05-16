@@ -10,7 +10,7 @@
 [taller jekyll con dockers](talleres/Jekylltutorialanarodriguez.md)  
 
 # TEMA 2
-[tarea 1]()  
-[tarea 2](https://anarodriguezm.github.io/lagrange/) 
+[ejemplo minima](https://anarodriguezm.github.io/actividad13_lamp_dockers/)  
+[lagrange](https://anarodriguezm.github.io/lagrange/) 
 [tarea 3]  
 [tarea 4]  
