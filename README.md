@@ -11,6 +11,6 @@
 
 # TEMA 2
 [tarea 1](talleres/)  
-[tarea 2]
-[tarea 3]
-[tarea 4]
+[tarea 2]  
+[tarea 3]  
+[tarea 4]  
